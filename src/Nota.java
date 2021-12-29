@@ -19,8 +19,8 @@ public class Nota {
             cont++;
         }while (cont < 5);
 
-        System.out.println(maior);
-        System.out.println(media);
+        System.out.println("Maior numero: " + maior);
+        System.out.println("Media dos numeros: " + media);
 
     }
 }
